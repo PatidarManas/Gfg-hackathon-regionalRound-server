@@ -23,7 +23,6 @@ This repository contains the backend code for the Gfg-Hackathon-RegionalRound-Se
 - **Backend Framework**: Node.js with Express
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Token)
-- **Real-time Updates**: Socket.io
 
 ## Setup and Installation
 
